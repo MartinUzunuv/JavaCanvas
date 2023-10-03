@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
-        //Examples
+        //Cool examples
 
         //1---------->
         //        for(double i = 0; i < Math.PI*4; i+= Math.PI/2) {
